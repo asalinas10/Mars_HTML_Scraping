@@ -74,8 +74,8 @@ The purpose of this project is to scrape and analyze data using Splinter and HTM
         
             - Visually estimate the result by plotting the daily minimum temperature.
 
-    ![Alt text](<Screen Shot 2024-01-04 at 6.15.11 PM.png>)
+![Alt text](<Screen Shot 2024-01-04 at 6.15.11 PM.png>)
         
     - Export the DataFrame to a CSV file.
 
-    ![Alt text](<Screen Shot 2024-01-04 at 6.16.00 PM.png>)
+![Alt text](<Screen Shot 2024-01-04 at 6.16.00 PM.png>)
